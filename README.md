@@ -9,37 +9,33 @@ I specialize in building robust and scalable backend systems with expertise in N
 ## 🛠 Technical Skills
 
 ### Backend Development
-- **Frameworks**: Node.js, Express, Nest.js, .NET Core
-- **Architectures**: Microservices, MVC, Object-Oriented Programming (OOP)
-- **APIs**: RESTful APIs, GraphQL APIs, WebSocket
+- **Frameworks**: Express.js, Nest.js, .NET Core
+- **Architectures**: Monolith, Microservices
+- **APIs**: RESTful APIs, GraphQL APIs
 
 ### Programming Languages & Tools
 - **Languages**: JavaScript (ES6+), TypeScript, C#, SQL, HTML
-- **Utilities**: JSON, JWT, Postman, Swagger
 - **Version Control**: Git, GitHub
 
 ### Databases
 - **Relational Databases**: PostgreSQL, MySQL
 - **NoSQL Databases**: MongoDB
-- **ORMs**: TypeORM, Sequelize, Entity Framework
+- **ORMs**: TypeORM, Sequelize , Prisma
 
 ### Deployment & Cloud
-- **Deployment Tools**: VPS, Firebase, AWS
+- **Deployment Tools**: AWS , VPS
 - **Containerization**: Docker
 - **CI/CD**: GitHub Actions
 
 ### Other Tools & Technologies
 - **Real-time Communication**: Socket.IO
 - **Caching**: Redis
-- **Third-Party Integrations**: SMTP, Twilio, Paymob
 
 ---
 
 ## 🎓 Education
-- **B.Sc. in Electrical Power & Machines Engineering**
+- **B.Sc. in Electrical Engineering**
   - Alexandria University (2014 - 2019)
-  - Grade: Very Good | Graduation Project: Excellent
-
 ---
 
 ## 📫 Let's Connect
