@@ -22,7 +22,7 @@
 - **APIs**: RESTful APIs, GraphQL APIs
 
 ### Programming Languages & Tools
-<img src="https://skillicons.dev/icons?i=js,ts,csharp,html,css,postgresql,mysql,mongodb,git,github,vscode,docker,redis" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,postgresql,mysql,mongodb,git,github,vscode,docker,redis,aws" />
 
 ### Databases
 - **Relational Databases**: PostgreSQL, MySQL
