@@ -1,67 +1,127 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Salsa&size=28&duration=3000&pause=500&color=1E8FFF&center=true&vCenter=true&multiline=true&random=false&height=90&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Bassem+Refaat+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Backend+Architect+%7C+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Salsa\&size=28\&duration=3000\&pause=500\&color=1E8FFF\&center=true\&vCenter=true\&multiline=true\&random=false\&height=90\&lines=Hi+There!+%F0%9F%91%8B;I'm+Bassem+Refaat+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Architect+%7C+AI+%26+Cloud+Systems)](https://git.io/typing-svg)
 
 </div>
 
-# 🚀 Backend Architect | Secure, Scalable Systems & AI Agents
+# Software Architect | Backend, Cloud & AI Systems
 
-Senior backend engineer and technical leader with hands-on experience as a **CTO**, architecting and shipping production systems — from multi-tenant SaaS platforms to AI-powered products serving thousands of active users.
+I design and build **production-grade software systems** with a focus on backend architecture, distributed systems, cloud infrastructure, security, and AI-powered products.
 
-🔭 Currently building **agentic AI systems** on Node.js/NestJS
+Currently working as **CTO at ALStudio.ai**, where I lead the technical direction of an AI-powered media generation platform — from system architecture and infrastructure to agentic AI workflows and production delivery.
 
-🧠 Deep focus on **distributed systems, security architecture, and cloud-scale infrastructure**
-
-🤝 Open to collaborating on **backend architecture, AI integrations, and scalable SaaS platforms**
+I enjoy solving complex engineering problems, making systems scalable and reliable, and turning product requirements into maintainable technical solutions.
 
 ---
 
-## 🛠 Skills & Expertise
+## 🚀 What I Build
 
-### System Design & Architecture
-- Distributed systems, microservices, event-driven architecture
-- Designed for scalability, high availability, and fault tolerance
-- Monolith → microservices migrations
+* **Scalable Backend Systems** — APIs, SaaS platforms, distributed services, and multi-tenant architectures
+* **System Architecture** — Microservices, event-driven systems, service communication, scalability, and fault tolerance
+* **Cloud & Infrastructure** — AWS, containers, CI/CD, deployment automation, and cost-optimized infrastructure
+* **Secure Systems** — Authentication, authorization, encryption, secrets management, and application security
+* **AI-Powered Products** — LLM integrations, agentic workflows, RAG, vector search, and AI-driven automation
 
-### Backend Development
-- **Frameworks**: NestJS, Express.js, .NET Core
-- **Languages**: TypeScript, JavaScript (ES6+), C#
-- **APIs**: RESTful APIs, GraphQL
+---
 
-### Security Architecture
-- OAuth2, JWT, OWASP Top 10
-- Threat modeling, secure SDLC practices
-- Secrets management, data encryption
+## 🧠 Core Expertise
+
+### Architecture & Distributed Systems
+
+* System design & architecture
+* Monolith and microservices architectures
+* Event-driven architecture
+* Synchronous & asynchronous communication
+* Distributed systems
+* High availability & fault tolerance
+* Scalability & performance
+* Multi-tenant SaaS architecture
+
+### Backend Engineering
+
+* **Node.js / NestJS / Express.js**
+* **.NET Core**
+* TypeScript, JavaScript, C#
+* RESTful APIs & GraphQL
+* API versioning
+* Data modeling and performance optimization
 
 ### Cloud & DevOps
-- **Cloud**: AWS
-- **Containerization**: Docker, Kubernetes
-- **CI/CD**: GitHub Actions
-- Cost-optimized infrastructure at scale
 
-### Databases & Messaging
-- **Relational**: PostgreSQL, MySQL
-- **NoSQL**: MongoDB, Redis
-- **Messaging/Queues**: Kafka, RabbitMQ, BullMQ
-- **ORMs**: TypeORM, Prisma, Sequelize
+* **AWS**
+* Docker & Docker Compose
+* Kubernetes
+* CI/CD pipelines
+* GitHub Actions
+* Load balancing & API gateways
+* Monitoring & automation
+* Cloud infrastructure optimization
+
+### Data & Messaging
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+* Kafka
+* RabbitMQ
+* BullMQ
+* Caching, indexing, replication, partitioning & sharding
+
+### Security
+
+* Authentication & authorization
+* OAuth 2.0 & JWT
+* OWASP Top 10
+* Web Application Firewall (WAF)
+* Data encryption
+* Secrets management
+* Secure application architecture
 
 ### AI & Agentic Systems
-- OpenAI API, Claude, Gemini
-- LangChain, Model Context Protocol (MCP)
-- Agentic pipelines, RAG, vector search
-- Natural-language-to-SQL and AI-driven analytics
 
-<img src="https://skillicons.dev/icons?i=js,ts,cs,nestjs,nodejs,postgresql,mysql,mongodb,redis,kubernetes,docker,aws,graphql,git,github,vscode" />
+* OpenAI, Claude & Gemini APIs
+* LangChain & LangGraph
+* Model Context Protocol (MCP)
+* Agentic architectures
+* RAG pipelines
+* Vector databases & vector search
+* AI-driven automation and analytics
 
 ---
 
-## 🎓 Education
+## 🏗️ What I've Worked On
 
-- **B.Sc. in Electrical Engineering**
-  Alexandria University (2014 – 2019)
+### 🎬 ALStudio.ai
+
+**CTO — AI-powered media generation platform**
+
+Leading the technical direction of an AI platform that combines text, image, video, voice, and agentic workflows into a unified creative system.
+
+* Led a team of 10+ engineers
+* Owned end-to-end technical architecture
+* Designed cloud infrastructure and deployment architecture
+* Built multi-stage agentic AI pipelines
+* Optimized infrastructure costs while maintaining production reliability
+* Worked across backend, cloud, AI, security, and product architecture
+
+### ☁️ Multi-Tenant SaaS Platforms
+
+Designed and delivered multi-tenant backend platforms with strong tenant isolation, scalability, and maintainability.
+
+### ⚙️ Distributed & Microservices Systems
+
+Designed backend systems composed of independently deployable services with synchronous and asynchronous communication, messaging, and event-driven workflows.
+
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Technology
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,cs,dotnet,postgres,mysql,mongodb,redis,kafka,rabbitmq,docker,kubernetes,aws,graphql,githubactions,git,github" />
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
@@ -71,11 +131,13 @@ Senior backend engineer and technical leader with hands-on experience as a **CTO
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect
 
-[<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/linkedin.svg">](https://www.linkedin.com/in/bassem-refaat) [<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/github.svg">](https://github.com/bassemre) [<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/gmail.svg">](mailto:bassemrefaat18@gmail.com)
+[<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/linkedin.svg">](https://www.linkedin.com/in/bassem-refaat)
+[<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/github.svg">](https://github.com/bassemre)
+[<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/gmail.svg">](mailto:bassemrefaat18@gmail.com)
 
 ---
 
-### ⚡ Fun Fact
-I'm as interested in *why* a system should be architected a certain way as I am in shipping it — good architecture is a story about trade-offs, not just a diagram.
+> **Good architecture is not about drawing the perfect diagram.
+> It's about making the right trade-offs for the product, the users, and the system.**
