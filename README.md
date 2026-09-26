@@ -1,49 +1,69 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Salsa&size=32&duration=3000&pause=500&color=1E8FFF&center=true&vCenter=true&multiline=true&random=false&height=90&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Bassem+Refaat+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Salsa&size=28&duration=3000&pause=500&color=1E8FFF&center=true&vCenter=true&multiline=true&random=false&height=90&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Bassem+Refaat+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Backend+Architect+%7C+AI+Systems)](https://git.io/typing-svg)
 
 </div>
 
-# 🚀 Backend Engineer | Node.js & Nest.js Expert | Crafting Scalable Solutions
+# 🚀 Backend Architect | Secure, Scalable Systems & AI Agents
 
-🔭 Currently working on **Building Robust Backend Systems**
+Senior backend engineer and technical leader with hands-on experience as a **CTO**, architecting and shipping production systems — from multi-tenant SaaS platforms to AI-powered products serving thousands of active users.
 
-🧠 Learning **Advanced Cloud Architectures**
+🔭 Currently building **agentic AI systems** on Node.js/NestJS
 
-🤝 Open to collaborating on **Scalable & Innovative Projects**
+🧠 Deep focus on **distributed systems, security architecture, and cloud-scale infrastructure**
+
+🤝 Open to collaborating on **backend architecture, AI integrations, and scalable SaaS platforms**
 
 ---
 
 ## 🛠 Skills & Expertise
 
+### System Design & Architecture
+- Distributed systems, microservices, event-driven architecture
+- Designed for scalability, high availability, and fault tolerance
+- Monolith → microservices migrations
+
 ### Backend Development
-- **Frameworks**: Express.js, Nest.js, .NET Core
-- **Architectures**: Monolith, Microservices
-- **APIs**: RESTful APIs, GraphQL APIs
+- **Frameworks**: NestJS, Express.js, .NET Core
+- **Languages**: TypeScript, JavaScript (ES6+), C#
+- **APIs**: RESTful APIs, GraphQL
 
-### Programming Languages & Tools
-<img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,postgresql,mysql,mongodb,git,github,vscode,docker,redis,aws" />
+### Security Architecture
+- OAuth2, JWT, OWASP Top 10
+- Threat modeling, secure SDLC practices
+- Secrets management, data encryption
 
-### Databases
-- **Relational Databases**: PostgreSQL, MySQL
-- **NoSQL Databases**: MongoDB
-- **ORMs**: TypeORM, Sequelize, Prisma
-
-### Deployment & Cloud
-- **Deployment Tools**: AWS, VPS
-- **Containerization**: Docker
+### Cloud & DevOps
+- **Cloud**: AWS (S3, MediaConvert, Secrets Manager)
+- **Containerization**: Docker, Kubernetes
 - **CI/CD**: GitHub Actions
+- Cost-optimized infrastructure at scale
 
-### Other Tools & Technologies
-- **Real-time Communication**: Socket.IO
-- **Caching**: Redis
+### Databases & Messaging
+- **Relational**: PostgreSQL, MySQL
+- **NoSQL**: MongoDB, Redis
+- **Messaging/Queues**: Kafka, RabbitMQ, BullMQ
+- **ORMs**: TypeORM, Prisma, Sequelize
+
+### AI & Agentic Systems
+- OpenAI API, Claude, Gemini
+- LangChain, Model Context Protocol (MCP)
+- Agentic pipelines, RAG, vector search
+- Natural-language-to-SQL and AI-driven analytics
+
+<img src="https://skillicons.dev/icons?i=js,ts,cs,nestjs,nodejs,postgresql,mysql,mongodb,redis,kubernetes,docker,aws,graphql,git,github,vscode" />
 
 ---
 
 ## 🎓 Education
 
 - **B.Sc. in Electrical Engineering**
-  - Alexandria University (2014 - 2019)
+  Alexandria University (2014 – 2019)
+
+## 📜 Certifications
+
+- Application Security — The Complete Guide *(Udemy)*
+- Claude Code in Action *(Anthropic, 2026)*
 
 ---
 
@@ -59,9 +79,9 @@
 
 ## 📫 Let's Connect
 
-[<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/linkedin.svg">](https://www.linkedin.com/in/bassem-refaat)  [<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/github.svg">](https://github.com/bassemre)  [<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/gmail.svg">](mailto:bassemrefaat18@gmail.com)
+[<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/linkedin.svg">](https://www.linkedin.com/in/bassem-refaat) [<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/github.svg">](https://github.com/bassemre) [<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/gmail.svg">](mailto:bassemrefaat18@gmail.com)
 
 ---
 
 ### ⚡ Fun Fact
-I'm passionate about crafting clean backend architectures and exploring innovative problem-solving techniques!
+I'm as interested in *why* a system should be architected a certain way as I am in shipping it — good architecture is a story about trade-offs, not just a diagram.
