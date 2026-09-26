@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Salsa\&size=28\&duration=3000\&pause=500\&color=1E8FFF\&center=true\&vCenter=true\&multiline=true\&random=false\&height=90\&lines=Hi+There!+%F0%9F%91%8B;I'm+Bassem+Refaat+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Architect+%7C+AI+%26+Cloud+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Salsa\&size=28\&duration=3000\&pause=700\&color=1E8FFF\&center=true\&vCenter=true\&width=800\&height=120\&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Bassem+Refaat+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Architect+%7C+AI+%26+Cloud+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -90,34 +90,16 @@ I enjoy solving complex engineering problems, making systems scalable and reliab
 
 ---
 
-## 🏗️ What I've Worked On
-
-### 🎬 ALStudio.ai
-
-**CTO — AI-powered media generation platform**
-
-Leading the technical direction of an AI platform that combines text, image, video, voice, and agentic workflows into a unified creative system.
-
-* Led a team of 10+ engineers
-* Owned end-to-end technical architecture
-* Designed cloud infrastructure and deployment architecture
-* Built multi-stage agentic AI pipelines
-* Optimized infrastructure costs while maintaining production reliability
-* Worked across backend, cloud, AI, security, and product architecture
-
-### ☁️ Multi-Tenant SaaS Platforms
-
-Designed and delivered multi-tenant backend platforms with strong tenant isolation, scalability, and maintainability.
-
-### ⚙️ Distributed & Microservices Systems
-
-Designed backend systems composed of independently deployable services with synchronous and asynchronous communication, messaging, and event-driven workflows.
-
----
-
 ## 🛠️ Technology
 
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,cs,dotnet,postgres,mysql,mongodb,redis,kafka,rabbitmq,docker,kubernetes,aws,graphql,githubactions,git,github" />
+
+---
+
+## 🎓 Education
+
+**Bachelor of Electrical Engineering**
+Alexandria University · 2014–2019
 
 ---
 
