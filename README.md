@@ -46,16 +46,19 @@ I enjoy solving complex engineering problems, making systems scalable and reliab
 * API versioning
 * Data modeling and performance optimization
 
-### Cloud & DevOps
+### ☁️ Cloud Architecture & DevOps
 
-* **AWS**
-* Docker & Docker Compose
-* Kubernetes
-* CI/CD pipelines
+* **Cloud Architecture** — scalable, highly available, fault-tolerant cloud systems
+* **AWS** — production cloud infrastructure and service architecture
+* Compute, networking, storage, databases, caching, messaging & CDN architectures
+* VPC, subnets, security groups, load balancing and network architecture
+* Containerized workloads with Docker & Kubernetes
+* **Infrastructure as Code** — Terraform & AWS CloudFormation
+* CI/CD pipelines and deployment automation
 * GitHub Actions
-* Load balancing & API gateways
-* Monitoring & automation
-* Cloud infrastructure optimization
+* Monitoring, logging and observability
+* Infrastructure security and secrets management
+* Cloud cost optimization and resource planning
 
 ### Data & Messaging
 
@@ -68,15 +71,23 @@ I enjoy solving complex engineering problems, making systems scalable and reliab
 * BullMQ
 * Caching, indexing, replication, partitioning & sharding
 
-### Security
+### 🔐 Security Architecture & Secure SDLC
 
+* **Security Architecture** and secure system design
+* **Secure SDLC** and security throughout the software development lifecycle
+* Threat modeling and security requirements
+* Security-focused architecture and design reviews
 * Authentication & authorization
-* OAuth 2.0 & JWT
+* OAuth 2.0, JWT and access-control design
 * OWASP Top 10
+* API and application security
 * Web Application Firewall (WAF)
-* Data encryption
+* Data encryption and secure data handling
 * Secrets management
-* Secure application architecture
+* Secure configuration and infrastructure security
+* Security testing and vulnerability mitigation
+* Defense-in-depth architecture
+* Least-privilege access and security controls
 
 ### AI & Agentic Systems
 
