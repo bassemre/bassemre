@@ -34,7 +34,7 @@ Senior backend engineer and technical leader with hands-on experience as a **CTO
 - Secrets management, data encryption
 
 ### Cloud & DevOps
-- **Cloud**: AWS (S3, MediaConvert, Secrets Manager)
+- **Cloud**: AWS
 - **Containerization**: Docker, Kubernetes
 - **CI/CD**: GitHub Actions
 - Cost-optimized infrastructure at scale
@@ -59,12 +59,6 @@ Senior backend engineer and technical leader with hands-on experience as a **CTO
 
 - **B.Sc. in Electrical Engineering**
   Alexandria University (2014 – 2019)
-
-## 📜 Certifications
-
-- Application Security — The Complete Guide *(Udemy)*
-- Claude Code in Action *(Anthropic, 2026)*
-
 ---
 
 ## 📈 GitHub Stats
